@@ -2,4 +2,4 @@
 Here's the ReadMe File for this Project:
 
 
-[README.pdf](https://github.com/YaashviiPThakkarr/Location-Intelligence-for-Music-Concerts/files/10149067/README.pdf)
+[README.pdf](README.pdf)
